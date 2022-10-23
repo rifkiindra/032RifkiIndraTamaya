@@ -1,0 +1,26 @@
+.banner {
+   background: url("http://localhost/wordpress/wp-content/uploads/2022/10/thumb-1920-692040.jpg") no-repeat center center;
+   background-size: cover;
+   padding-top: 20%;
+   padding-bottom: 20%;
+   color: #fff;
+}
+
+.crop-img {
+   object-fit: cover;
+}
+
+.tim img {
+width: 250px;
+border:10px solid #CCCCCC;
+
+}
+
+.kontak{
+   background: url("http://localhost/wordpress/wp-content/uploads/2022/10/Gym-Free-Weights__FitWzIwMDAsMjAwMF0.jpg") no-repeat center center;
+   background-size: cover;
+   padding-bottom: 20%;
+   padding-top: 20%;
+   color: #fff;  
+}
+   
